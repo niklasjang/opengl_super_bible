@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\OpenGLSuperBible\sb7code-master\src\simpletexture\simpletexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\OpenGLSuperBible\sb7code-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6518914A-15A9-3574-8D40-B78989D2E8EE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
