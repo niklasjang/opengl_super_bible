@@ -1,1 +1,4 @@
-﻿
+﻿  Checking Build System
+  CMake is re-running because D:/OpenGLSuperBible/sb7code-master/build/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "D:/OpenGLSuperBible/sb7code-master" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.

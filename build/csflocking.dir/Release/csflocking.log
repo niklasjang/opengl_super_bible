@@ -1,8 +1,6 @@
-﻿  Building Custom Rule D:/OpenGLSuperBible/sb7code-master/CMakeLists.txt
-  CMake does not need to re-run because D:/OpenGLSuperBible/sb7code-master/build/CMakeFiles/generate.stamp is up-to-date.
-  csflocking.cpp
-D:\OpenGLSuperBible\sb7code-master\src\csflocking\csflocking.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-D:\OpenGLSuperBible\sb7code-master\include\sb7.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-d:\openglsuperbible\sb7code-master\include\sb7ext.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-D:\OpenGLSuperBible\sb7code-master\include\vmath.h(1022): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  csflocking.vcxproj -> D:\OpenGLSuperBible\sb7code-master\bin\csflocking.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project 'D:\OpenGLSuperBible\sb7code-master\build\ZERO_CHECK.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project 'D:\OpenGLSuperBible\sb7code-master\build\sb7.vcxproj' does not exist.
+  Building Custom Rule D:/OpenGLSuperBible/sb7code-master/CMakeLists.txt
+  CMake is re-running because D:/OpenGLSuperBible/sb7code-master/build/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "D:/OpenGLSuperBible/sb7code-master" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.
